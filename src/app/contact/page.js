@@ -2,7 +2,7 @@ import ContactForm from '@/components/ContactForm';
 import ScrollReveal from '@/components/ScrollReveal';
 
 export const metadata = {
-  title: 'Contact — Robert Platania',
+  title: 'Contact | Robert Platania',
   description: 'Contactez Robert Platania pour toute demande concernant ses oeuvres.',
 };
 
@@ -22,12 +22,12 @@ export default function ContactPage() {
             <div>
               <p className="section__text">
                 Pour toute question concernant les oeuvres de Robert Platania —
-                acquisition, exposition, collaboration — n'hesitez pas a nous ecrire.
+                acquisition, exposition, collaboration, n'hesitez pas a nous ecrire.
               </p>
               <div style={{ marginTop: 48 }}>
                 <p className="section__eyebrow" style={{ marginBottom: 8 }}>Email</p>
                 <p style={{ color: 'var(--color-text)', fontSize: 15 }}>
-                  contact@robertplatania.com
+                  robert.platania@orange.fr
                 </p>
               </div>
               <div style={{ marginTop: 32 }}>

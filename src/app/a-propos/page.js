@@ -1,7 +1,7 @@
 import ScrollReveal from '@/components/ScrollReveal';
 
 export const metadata = {
-  title: 'A propos — Robert Platania',
+  title: 'A propos | Robert Platania',
   description: 'Decouvrez Robert Platania, peintre expressionniste abstrait. Sa demarche, ses techniques, ses influences.',
 };
 
@@ -41,9 +41,9 @@ export default function AProposPage() {
               <h3>La peinture comme matiere vivante</h3>
               <p>
                 Robert Platania est un peintre expressionniste abstrait dont le travail
-                s'inscrit dans la lignee des grands gestuels — de Kooning, Soulages,
-                Mitchell — tout en portant une chaleur qui lui est propre, profondement
-                mediterraneenne.
+                s'inscrit dans la lignee des grands gestuels : de Kooning, Soulages,
+                Mitchell. Une filiation revendiquee, mais portee par une chaleur qui lui
+                est propre, profondement mediterraneenne.
               </p>
               <p>
                 Ses toiles ne se regardent pas de loin. Elles exigent la proximite :
@@ -56,8 +56,8 @@ export default function AProposPage() {
               <p>
                 Le vocabulaire de Platania est celui des forces primordiales. Le feu,
                 la lave en fusion, la nuit cosmique, les profondeurs oceanes, la foret
-                qui brule. Sa palette — dominee par les rouges ardents, les oranges
-                incandescents et les ors sur des fonds d'un noir profond — ne cherche
+                qui brule. Sa palette, dominee par les rouges ardents, les oranges
+                incandescents et les ors sur des fonds d'un noir profond, ne cherche
                 pas a representer ces elements. Elle <em>est</em> ces elements.
               </p>
               <p>
@@ -71,7 +71,7 @@ export default function AProposPage() {
               <p>
                 Une oeuvre echappe a cette incandescence : <em>Architecture doree</em>,
                 N&deg;64. Fond blanc, lignes geometriques, palette retenue. Elle temoigne
-                d'une maitrise qui sait aussi se contenir — et revele la diversite
+                d'une maitrise qui sait aussi se contenir, et revele la diversite
                 d'un artiste que l'on aurait tort de reduire a un seul registre.
               </p>
             </div>
@@ -111,7 +111,7 @@ export default function AProposPage() {
               <div className="technique-card">
                 <h4 className="technique-card__title">Palette de feu</h4>
                 <p className="technique-card__text">
-                  Rouges profonds, oranges brulants, ors solaires — poses sur des
+                  Rouges profonds, oranges brulants, ors solaires poses sur des
                   fonds d'un noir absolu. La couleur jaillit de la nuit comme
                   la lave du volcan.
                 </p>

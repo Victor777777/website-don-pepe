@@ -726,6 +726,13 @@ h1, h2, h3, h4 {
   text-transform: uppercase;
 }
 
+.lightbox__info-medium {
+  font-family: var(--font-body);
+  font-size: 11px;
+  color: var(--color-text-tertiary);
+  font-style: italic;
+}
+
 .lightbox__info-dots {
   display: flex;
   gap: 6px;

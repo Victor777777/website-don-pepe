@@ -2,7 +2,7 @@ import Gallery from '@/components/Gallery';
 import ScrollReveal from '@/components/ScrollReveal';
 
 export const metadata = {
-  title: 'Galerie — Robert Platania',
+  title: 'Galerie | Robert Platania',
   description: '32 oeuvres expressionnistes abstraites en 6 series thematiques par Robert Platania.',
 };
 

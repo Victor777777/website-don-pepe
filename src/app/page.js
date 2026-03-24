@@ -20,7 +20,7 @@ export default function Home() {
           </ScrollReveal>
           <ScrollReveal delay={200}>
             <p className="hero__subtitle">
-              Le feu comme langage, la matiere comme geste.
+              Le feu comme langage, la matiere comme geste.<br />
               Trente-deux toiles ou la lave rencontre la lumiere.
             </p>
           </ScrollReveal>
@@ -47,14 +47,14 @@ export default function Home() {
             <p className="section__text">
               Robert Platania peint comme on forge : au couteau, dans l'epaisseur,
               avec la certitude que la toile est un terrain volcanique. Ses oeuvres
-              ne representent pas le feu — elles en sont. Chaque couche d'empâtement
+              ne representent pas le feu, elles en sont. Chaque couche d'empâtement
               porte la trace d'un geste qui ne negocie pas avec la surface.
             </p>
           </ScrollReveal>
           <ScrollReveal delay={300}>
             <p className="section__text" style={{ marginTop: 16 }}>
-              Six series thematiques — du magma aux profondeurs bleues, des forets
-              ardentes aux eclats de joie pure — composent un corpus de trente-deux
+              Six series thematiques, du magma aux profondeurs bleues, des forets
+              ardentes aux eclats de joie pure, composent un corpus de trente-deux
               toiles ou l'expressionnisme abstrait rencontre une chaleur profondement
               mediterraneenne.
             </p>

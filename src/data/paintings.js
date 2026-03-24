@@ -20,8 +20,8 @@ export const paintings = [
 
   // Tempête & Chaos
   { id: 44, title: 'La tempête', slug: 'la-tempete', series: 'tempete-chaos', description: 'Déchaînement atmosphérique' },
-  { id: 57, title: 'Apocalypse I', slug: 'apocalypse-i', series: 'tempete-chaos', description: 'Diptique — partie gauche', diptych: 'apocalypse' },
-  { id: 58, title: 'Apocalypse II', slug: 'apocalypse-ii', series: 'tempete-chaos', description: 'Diptique — partie droite', diptych: 'apocalypse' },
+  { id: 57, title: 'Apocalypse I', slug: 'apocalypse-i', series: 'tempete-chaos', description: 'Diptique, partie gauche', diptych: 'apocalypse' },
+  { id: 58, title: 'Apocalypse II', slug: 'apocalypse-ii', series: 'tempete-chaos', description: 'Diptique, partie droite', diptych: 'apocalypse' },
   { id: 43, title: 'Horizon en feu', slug: 'horizon-en-feu', series: 'tempete-chaos', description: 'Ligne d\'horizon embrasée' },
   { id: 39, title: 'Nuit de feu', slug: 'nuit-de-feu', series: 'tempete-chaos', description: 'Nuit percée de lueurs ardentes' },
 

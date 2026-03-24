@@ -77,12 +77,10 @@ function PaintingCard({ painting, onOpen }) {
     >
       <img
         src={`/paintings/${painting.id}-${painting.slug}-thumb.jpg`}
-        srcSet={`/paintings/${painting.id}-${painting.slug}-thumb.jpg 800w, /paintings/${painting.id}-${painting.slug}.jpg 1024w`}
-        sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
         alt={painting.title}
         loading="lazy"
         width={800}
-        height={600}
+        height={800}
       />
       <div className="gallery-card__overlay">
         <span className="gallery-card__number">N&deg;{painting.id}</span>

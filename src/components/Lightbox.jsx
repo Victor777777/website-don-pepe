@@ -109,7 +109,7 @@ export default function Lightbox({ painting, onClose }) {
               {slide === 1 && (
                 <img
                   src={`/paintings/${painting.id}-${painting.slug}-context.jpg`}
-                  alt={`${painting.title} — mise en situation`}
+                  alt={`${painting.title}, mise en situation`}
                   className="lightbox__slide-img"
                 />
               )}
@@ -141,6 +141,8 @@ export default function Lightbox({ painting, onClose }) {
           <span className="lightbox__info-series" style={{ color: seriesColor }}>
             {getSeriesName(painting.series)}
           </span>
+          <span className="lightbox__info-sep">&middot;</span>
+          <span className="lightbox__info-medium">Huile sur toile</span>
           <span className="lightbox__info-dots">
             {Array.from({ length: totalSlides }).map((_, i) => (
               <span

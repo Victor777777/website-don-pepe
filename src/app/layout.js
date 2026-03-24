@@ -2,11 +2,11 @@ import './globals.css';
 import Navigation from '@/components/Navigation';
 
 export const metadata = {
-  title: 'Robert Platania — Peintre expressionniste abstrait',
-  description: 'Portfolio de Robert Platania, peintre expressionniste abstrait. Feu, lave, cosmos — 32 oeuvres en 6 series thematiques.',
+  title: 'Robert Platania | Peintre expressionniste abstrait',
+  description: 'Portfolio de Robert Platania, peintre expressionniste abstrait. Feu, lave, cosmos, 32 oeuvres en 6 series thematiques.',
   openGraph: {
-    title: 'Robert Platania — Peintre expressionniste abstrait',
-    description: 'Portfolio de Robert Platania. Feu, lave, cosmos — la matiere en mouvement.',
+    title: 'Robert Platania | Peintre expressionniste abstrait',
+    description: 'Portfolio de Robert Platania. Feu, lave, cosmos. La matiere en mouvement.',
     type: 'website',
   },
 };
