@@ -842,6 +842,33 @@ h1, h2, h3, h4 {
   font-style: italic;
 }
 
+.about-subtitle {
+  font-family: var(--font-display);
+  font-size: 18px;
+  font-weight: 400;
+  font-style: italic;
+  color: var(--color-text-secondary);
+  letter-spacing: 0.03em;
+  margin-top: 12px;
+}
+
+.artist-quote {
+  margin: 32px 0;
+  padding: 24px 28px;
+  border-left: 3px solid var(--color-accent);
+  background: rgba(196, 49, 10, 0.06);
+  border-radius: 0 6px 6px 0;
+}
+
+.artist-quote p {
+  font-family: var(--font-display);
+  font-size: 20px;
+  font-style: italic;
+  color: var(--color-text);
+  line-height: 1.6;
+  margin-bottom: 0;
+}
+
 .about-techniques {
   margin-top: 80px;
   padding-top: 80px;

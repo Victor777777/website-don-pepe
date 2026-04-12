@@ -2,7 +2,7 @@ import ScrollReveal from '@/components/ScrollReveal';
 
 export const metadata = {
   title: 'A propos | Robert Platania',
-  description: 'Decouvrez Robert Platania, peintre expressionniste abstrait. Sa demarche, ses techniques, ses influences.',
+  description: 'Ne en 1931 d\'une famille sicilienne d\'Acireale, Robert Platania traverse un siecle entier avant de se consacrer pleinement a la peinture expressionniste abstraite.',
 };
 
 export default function AProposPage() {
@@ -14,6 +14,9 @@ export default function AProposPage() {
         </ScrollReveal>
         <ScrollReveal delay={100}>
           <h1 className="section__title">Robert Platania</h1>
+        </ScrollReveal>
+        <ScrollReveal delay={150}>
+          <p className="about-subtitle">Né en 1931, d'une famille sicilienne d'Acireale</p>
         </ScrollReveal>
 
         <div className="about-grid" style={{ marginTop: 48 }}>
@@ -38,87 +41,97 @@ export default function AProposPage() {
 
           <ScrollReveal delay={300}>
             <div className="about-text">
-              <h3>La peinture comme matiere vivante</h3>
+              <h3>Les origines</h3>
               <p>
-                Robert Platania est un peintre expressionniste abstrait dont le travail
-                s'inscrit dans la lignee des grands gestuels : de Kooning, Soulages,
-                Mitchell. Une filiation revendiquee, mais portee par une chaleur qui lui
-                est propre, profondement mediterraneenne.
-              </p>
-              <p>
-                Ses toiles ne se regardent pas de loin. Elles exigent la proximite :
-                la matiere y est epaisse, travaillee au couteau a palette avec une
-                intensite qui laisse des reliefs presque sculpturaux a la surface.
-                Chaque geste est definitif, chaque strate porte la memoire du precedent.
+                Les Platania sont une famille sicilienne enracinée depuis des générations
+                à Acireale, sur la côte orientale de la Sicile, dans l'ombre de l'Etna.
+                Comme tant de familles du Mezzogiorno, portées par les courants séculaires
+                du commerce méditerranéen, les Platania traversent le détroit de Sicile et
+                s'établissent sur la rive tunisienne. Le père de Robert y ouvre un atelier
+                de photographie, sous des verrières baignées par la lumière blanche de la
+                Méditerranée.
               </p>
 
-              <h3>Un langage de feu et de nuit</h3>
+              <h3>La chambre noire</h3>
               <p>
-                Le vocabulaire de Platania est celui des forces primordiales. Le feu,
-                la lave en fusion, la nuit cosmique, les profondeurs oceanes, la foret
-                qui brule. Sa palette, dominee par les rouges ardents, les oranges
-                incandescents et les ors sur des fonds d'un noir profond, ne cherche
-                pas a representer ces elements. Elle <em>est</em> ces elements.
+                C'est dans cet atelier que tout commence. Robert a douze ans quand il plonge
+                les mains pour la première fois dans les bacs du laboratoire. Révélateur,
+                fixateur, eau. Dans la pénombre rouge de la chambre noire, il assiste à ce
+                miracle quotidien : une image qui émerge du néant. Mais le garçon veut aller
+                plus loin que la captation. Sur les agrandissements à peine secs, il commence
+                à poser du pastel. Des portraits d'enfants, rehaussés à la main, où la couleur
+                chair prend vie sous ses doigts, où le bleu d'un vêtement vibre soudain contre
+                le grain du papier mat.
               </p>
               <p>
-                Plus de quatre-vingts pour cent de son oeuvre vibre dans les tons du feu
-                et de la nuit. Quand le bleu apparait, c'est celui de l'abysse ou du ciel
-                d'orage. Quand le vert surgit, c'est celui d'une foret ou la lumiere
-                ne penetre qu'en eclats.
+                C'est un geste fondateur. Entre la précision photographique et l'élan du pigment,
+                Robert découvre les deux forces qui guideront toute son œuvre : la rigueur de
+                l'observation et la liberté de la couleur.
               </p>
 
-              <h3>L'exception qui confirme</h3>
+              <h3>Les années françaises</h3>
               <p>
-                Une oeuvre echappe a cette incandescence : <em>Architecture doree</em>,
-                N&deg;64. Fond blanc, lignes geometriques, palette retenue. Elle temoigne
-                d'une maitrise qui sait aussi se contenir, et revele la diversite
-                d'un artiste que l'on aurait tort de reduire a un seul registre.
+                À dix-sept ans, il rejoint la France, comme tant d'Italiens de Tunisie avant
+                lui. La vie déploie ses propres compositions, imprévisibles, exigeantes.
+                Pendant des décennies, Robert bâtit, entreprend, traverse le siècle avec
+                l'énergie de ceux qui portent en eux plusieurs terres. Mais l'œil ne dort
+                jamais. Chaque passage à Paris est un pèlerinage silencieux dans les galeries
+                du huitième arrondissement, chaque exposition une conversation intime avec la
+                peinture qui l'attend.
+              </p>
+
+              <h3>Le tournant</h3>
+              <p>
+                Le tournant arrive à soixante-dix ans. Ce qui ressemblait à une parenthèse se
+                révèle être un prélude. Robert reprend les pinceaux et ne les lâchera plus.
+                D'abord dans une école de peinture locale, puis seul, des heures durant, avec
+                la discipline farouche d'un homme qui sait que le temps est devenu son matériau
+                le plus précieux. Il étudie Giancarlo Bargognone, dont la gestuelle italienne
+                résonne avec sa propre mémoire méditerranéenne. Il explore Brian Rottenberg,
+                plonge dans l'expressionnisme américain des années cinquante, absorbe tout ce
+                qui vibre, tout ce qui ose.
+              </p>
+
+              <h3>La matière et le feu</h3>
+              <p>
+                Du pastel délicat de l'adolescence, sa main évolue vers le couteau à palette.
+                Le geste s'élargit, s'épaissit, se libère. Les empâtements deviennent des
+                paysages en relief, les rouges incandescents surgissent de fonds noirs abyssaux
+                comme la lave de l'Etna perçant la croûte terrestre. On retrouve dans ses toiles
+                l'incandescence de la Sicile, la lumière crue de la Méditerranée, l'énergie brute
+                d'un homme qui a traversé un siècle entier. Ses toiles ne représentent pas le feu.
+                Elles brûlent.
+              </p>
+
+              <h3>L'essentiel</h3>
+              <p>
+                L'abstrait, pour Robert, n'est pas une fuite vers le vague. C'est l'inverse :
+                une confrontation directe avec l'essentiel. Là où le figuratif décrit, l'abstrait
+                exige. Il faut oser le premier geste sur la toile blanche, accepter que
+                l'inspiration ne se commande pas, que la matière a ses propres intentions.
+              </p>
+
+              <blockquote className="artist-quote">
+                <p>Quand je suis en forme, je fonce. Je n'ai pas peur.</p>
+              </blockquote>
+
+              <p>
+                C'est cette audace, cette urgence du geste, qui donne à chaque toile de
+                Platania sa charge tellurique.
+              </p>
+
+              <h3>Le cercle</h3>
+              <p>
+                Plus de quatre-vingts ans séparent le gamin d'Acireale qui posait du pastel
+                sur des portraits en chambre noire et le peintre qui attaque la toile au couteau.
+                Le cercle s'est refermé avec une cohérence inattendue : à douze ans comme
+                aujourd'hui, Robert Platania fait la même chose. Il met de la couleur là où il
+                n'y en avait pas.
               </p>
             </div>
           </ScrollReveal>
         </div>
 
-        <div className="about-techniques">
-          <ScrollReveal>
-            <p className="section__eyebrow">Technique</p>
-          </ScrollReveal>
-          <ScrollReveal delay={100}>
-            <h2 className="section__title">La forge du geste</h2>
-          </ScrollReveal>
-
-          <div className="technique-grid">
-            <ScrollReveal delay={0}>
-              <div className="technique-card">
-                <h4 className="technique-card__title">Empâtement epais</h4>
-                <p className="technique-card__text">
-                  La matiere n'est pas un moyen, c'est le sujet. Les couches
-                  successives creent un relief quasi-sculptural que la photographie
-                  ne peut qu'approcher.
-                </p>
-              </div>
-            </ScrollReveal>
-            <ScrollReveal delay={80}>
-              <div className="technique-card">
-                <h4 className="technique-card__title">Couteau a palette</h4>
-                <p className="technique-card__text">
-                  Pas de pinceau delicat : le couteau impose des gestes larges,
-                  des arêtes vives, des textures rugueuses qui vibrent sous
-                  la lumiere rasante.
-                </p>
-              </div>
-            </ScrollReveal>
-            <ScrollReveal delay={160}>
-              <div className="technique-card">
-                <h4 className="technique-card__title">Palette de feu</h4>
-                <p className="technique-card__text">
-                  Rouges profonds, oranges brulants, ors solaires poses sur des
-                  fonds d'un noir absolu. La couleur jaillit de la nuit comme
-                  la lave du volcan.
-                </p>
-              </div>
-            </ScrollReveal>
-          </div>
-        </div>
       </div>
     </section>
   );
