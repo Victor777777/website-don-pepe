@@ -83,11 +83,8 @@ function PaintingCard({ painting, onOpen }) {
         height={800}
       />
       <div className="gallery-card__overlay">
-        <span className="gallery-card__number">N&deg;{painting.id}</span>
         <span className="gallery-card__title">{painting.title}</span>
-        <span className="gallery-card__series" style={{ color: getSeriesColor(painting.series) }}>
-          {getSeriesName(painting.series)}
-        </span>
+        <span className="gallery-card__year">{painting.year}</span>
       </div>
     </div>
   );

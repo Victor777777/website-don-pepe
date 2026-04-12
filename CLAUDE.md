@@ -67,69 +67,71 @@ Le site est conçu comme une **galerie d'art sombre** — fond noir profond où 
 
 ## Catalogue des œuvres — 32 peintures en 6 séries
 
+Toutes les peintures sont à l'**acrylique sur toile**, sauf N°64 qui est à l'**huile sur toile**. Dimensions en cm (largeur × hauteur).
+
 ### 🔥 Feu & Lave (7 œuvres)
 
-| N° | Titre | Description courte |
-|----|-------|--------------------|
-| 60 | Magma | Coulée volcanique, lave en fusion sur fond noir |
-| 59 | Coulée II | Lave en mouvement, reflets or |
-| 56 | Fumée et braise | Orange brûlé, cendres, anthracite |
-| 62 | Explosion solaire | Feu ardent jaillissant de la nuit |
-| 50 | Nocturne rouge | Profond, rouge sang, nuit absolue |
-| 49 | Rideau cramoisi | Drapé de rouge, masse sombre |
-| 16 | Strates | Couches géologiques incandescentes |
+| N° | Titre | Dimensions (cm) | Année | Technique |
+|----|-------|-----------------|-------|-----------|
+| 60 | Magma | 100 × 100 | 2025 | Acrylique |
+| 59 | Coulée II | 130 × 100 | 2024 | Acrylique |
+| 56 | Fumée et braise | 100 × 100 | 2024 | Acrylique |
+| 62 | Explosion solaire | 90 × 90 | 2024 | Acrylique |
+| 50 | Nocturne rouge | 113 × 75 | 2022 | Acrylique |
+| 49 | Rideau cramoisi | 130 × 100 | 2023 | Acrylique |
+| 16 | Strates | 130 × 100 | 2024 | Acrylique |
 
 ### ⚡ Tempête & Chaos (5 œuvres)
 
-| N° | Titre | Description courte |
-|----|-------|--------------------|
-| 44 | La tempête | Déchaînement atmosphérique |
-| 57 | Apocalypse I | Diptique — partie gauche |
-| 58 | Apocalypse II | Diptique — partie droite |
-| 43 | Horizon en feu | Ligne d'horizon embrasée |
-| 39 | Nuit de feu | Nuit percée de lueurs ardentes |
+| N° | Titre | Dimensions (cm) | Année | Technique |
+|----|-------|-----------------|-------|-----------|
+| 44 | La tempête | 100 × 100 | 2022 | Acrylique |
+| 57 | Apocalypse I | 100 × 100 | 2024 | Acrylique |
+| 58 | Apocalypse II | 100 × 100 | 2024 | Acrylique |
+| 43 | Horizon en feu | 100 × 80 | 2022 | Acrylique |
+| 39 | Nuit de feu | 130 × 100 | 2020 | Acrylique |
 
 ### ✦ Cosmos & Nuit (5 œuvres)
 
-| N° | Titre | Description courte |
-|----|-------|--------------------|
-| 4  | Le phénix | Oiseau de feu renaissant |
-| 3  | Koi nocturne | Forme organique dans la nuit |
-| 26 | Vortex | Spirale cosmique |
-| 47 | Galaxie | Nébuleuse de couleurs |
-| 40 | Big Bang | Explosion originelle |
+| N° | Titre | Dimensions (cm) | Année | Technique |
+|----|-------|-----------------|-------|-----------|
+| 4  | Le phénix | 100 × 100 | 2025 | Acrylique |
+| 3  | Koi nocturne | 130 × 100 | 2015 | Acrylique |
+| 26 | Vortex | 100 × 100 | 2024 | Acrylique |
+| 47 | Galaxie | 130 × 100 | 2023 | Acrylique |
+| 40 | Big Bang | 100 × 100 | 2015 | Acrylique |
 
 ### 🌊 Eau & Lumière (5 œuvres)
 
-| N° | Titre | Description courte |
-|----|-------|--------------------|
-| 52 | Profondeur bleue | Abysses, bleu intense |
-| 51 | Soleil sur mer | Lumière dorée sur l'eau |
-| 2  | Confluent | Rencontre de courants |
-| 11 | Désert bleu | Étendue bleue austère |
-| 9  | Solstice | Lumière au zénith |
+| N° | Titre | Dimensions (cm) | Année | Technique |
+|----|-------|-----------------|-------|-----------|
+| 52 | Profondeur bleue | 100 × 100 | 2025 | Acrylique |
+| 51 | Soleil sur mer | 100 × 100 | 2022 | Acrylique |
+| 2  | Confluent | 130 × 100 | 2015 | Acrylique |
+| 11 | Désert bleu | 115 × 90 | 2014 | Acrylique |
+| 9  | Solstice | 130 × 100 | 2014 | Acrylique |
 
 ### 🌲 Nature & Forêt (5 œuvres)
 
-| N° | Titre | Description courte |
-|----|-------|--------------------|
-| 28 | Sylve | Forêt dense et mystérieuse |
-| 29 | Forêt ardente | Sous-bois en feu |
-| 19 | La source | Jaillissement naturel |
-| 13 | Bouquet d'or | Explosion florale dorée |
-| 7  | Jardin cosmique | Nature et cosmos mêlés |
+| N° | Titre | Dimensions (cm) | Année | Technique |
+|----|-------|-----------------|-------|-----------|
+| 28 | Sylve | 130 × 100 | 2014 | Acrylique |
+| 29 | Forêt ardente | 115 × 90 | 2012 | Acrylique |
+| 19 | La source | 100 × 100 | 2013 | Acrylique |
+| 13 | Bouquet d'or | 130 × 100 | 2014 | Acrylique |
+| 7  | Jardin cosmique | 130 × 100 | 2014 | Acrylique |
 
 ### 🎨 Éclats & Joie (5 œuvres)
 
-| N° | Titre | Description courte |
-|----|-------|--------------------|
-| 31 | Éruption primaire | Couleurs primaires en explosion |
-| 32 | Les montagnes | Reliefs colorés |
-| 46 | Fête des prés | Couleurs vives, célébration |
-| 38 | Joie primaire | Rouge, jaune, vert, bleu |
-| 64 | Architecture dorée | ⭐ PIÈCE ATYPIQUE — fond blanc, structure géométrique, couleurs contenues |
+| N° | Titre | Dimensions (cm) | Année | Technique |
+|----|-------|-----------------|-------|-----------|
+| 31 | Éruption primaire | 150 × 120 | 2013 | Acrylique |
+| 32 | Les montagnes | 100 × 100 | 2023 | Acrylique |
+| 46 | Fête des prés | 150 × 120 | 2015 | Acrylique |
+| 38 | Joie primaire | 100 × 100 | 2012 | Acrylique |
+| 64 | Architecture dorée | 90 × 90 | 2024 | ⭐ Huile |
 
-> **Note sur N°64 "Architecture dorée"** : Cette toile est radicalement différente du reste de l'œuvre. Fond blanc, lignes géométriques, palette retenue. Elle doit être mise en avant sur le site comme pièce rare montrant la diversité de Platania. Envisager un traitement visuel distinct (par ex. fond clair local, encadré spécial).
+> **Note sur N°64 "Architecture dorée"** : Seule huile sur toile du catalogue. Fond blanc, lignes géométriques, palette retenue. Pièce atypique montrant la diversité de Platania. Traitement visuel distinct sur le site (fond clair, encadré spécial).
 
 ---
 

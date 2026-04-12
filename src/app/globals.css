@@ -524,13 +524,6 @@ h1, h2, h3, h4 {
   opacity: 1;
 }
 
-.gallery-card__number {
-  font-family: var(--font-mono);
-  font-size: 11px;
-  color: var(--color-text-secondary);
-  margin-bottom: 4px;
-}
-
 .gallery-card__title {
   font-family: var(--font-display);
   font-size: 20px;
@@ -539,12 +532,11 @@ h1, h2, h3, h4 {
   letter-spacing: 0.02em;
 }
 
-.gallery-card__series {
+.gallery-card__year {
   font-family: var(--font-body);
-  font-size: 11px;
+  font-size: 12px;
   color: var(--color-text-secondary);
   margin-top: 4px;
-  letter-spacing: 0.05em;
 }
 
 /* Architecture dorée special */
@@ -566,14 +558,9 @@ h1, h2, h3, h4 {
   );
 }
 
-.gallery-card--atypical .gallery-card__number,
 .gallery-card--atypical .gallery-card__title,
-.gallery-card--atypical .gallery-card__series {
+.gallery-card--atypical .gallery-card__year {
   color: #1A1410;
-}
-
-.gallery-card--atypical .gallery-card__number {
-  color: #5A4A3A;
 }
 
 /* --- Lightbox Slideshow --- */
@@ -699,38 +686,11 @@ h1, h2, h3, h4 {
   flex-wrap: wrap;
 }
 
-.lightbox__info-number {
-  font-family: var(--font-mono);
-  font-size: 11px;
-  color: var(--color-text-tertiary);
-}
-
-.lightbox__info-title {
-  font-family: var(--font-display);
-  font-size: 20px;
-  font-weight: 500;
-  color: var(--color-text);
-  letter-spacing: 0.02em;
-}
-
-.lightbox__info-sep {
-  color: var(--color-text-tertiary);
-  font-size: 14px;
-}
-
-.lightbox__info-series {
+.lightbox__info-cartel {
   font-family: var(--font-body);
-  font-size: 11px;
-  font-weight: 500;
-  letter-spacing: 0.1em;
-  text-transform: uppercase;
-}
-
-.lightbox__info-medium {
-  font-family: var(--font-body);
-  font-size: 11px;
-  color: var(--color-text-tertiary);
-  font-style: italic;
+  font-size: 13px;
+  color: var(--color-text-secondary);
+  letter-spacing: 0.03em;
 }
 
 .lightbox__info-dots {

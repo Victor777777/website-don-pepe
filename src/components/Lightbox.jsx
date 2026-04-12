@@ -133,16 +133,11 @@ export default function Lightbox({ painting, onClose }) {
           )}
         </div>
 
-        {/* Info overlay at bottom */}
+        {/* Info overlay at bottom — cartel style */}
         <div className="lightbox__info-bar">
-          <span className="lightbox__info-number">N&deg;{painting.id}</span>
-          <span className="lightbox__info-title">{painting.title}</span>
-          <span className="lightbox__info-sep">&middot;</span>
-          <span className="lightbox__info-series" style={{ color: seriesColor }}>
-            {getSeriesName(painting.series)}
+          <span className="lightbox__info-cartel">
+            N&deg;{painting.id} — {painting.title} — {painting.medium} — {painting.dimensions}&nbsp;cm — {painting.year}
           </span>
-          <span className="lightbox__info-sep">&middot;</span>
-          <span className="lightbox__info-medium">Huile sur toile</span>
           <span className="lightbox__info-dots">
             {Array.from({ length: totalSlides }).map((_, i) => (
               <span
