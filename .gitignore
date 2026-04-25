@@ -6,3 +6,8 @@ out/
 *.log
 public/paintings/raw/
 .vercel
+.env
+.env.local
+.env.*.local
+dist/
+build/
